@@ -12,31 +12,29 @@
     유니티 넷코드에 대한 간략한 소개
     <br />
     <br />
-    <a href="https://dronai.linearjun.com">Web Demo</a>
-    .
-    <a href="https://osamhack2021.github.io/app_web_dronai_62bn/">Download</a>
+    <a href="https://unity.com/">Unity3D</a>
     ·
-    <a href="https://dronai.notion.site/dronai/DRONAI-44534bc31aac4efaa2b24e3480d71581">Notion</a>
+    <a href="https://github.com/Unity-Technologies/com.unity.netcode.gameobjects">Netcode Repository</a>
     ·
-    <a href="https://dronai.gitbook.io/dronai/">Documents</a>
+    <a href="https://youtu.be/PCbJuSWBbrc">Video</a>
     ·
     <a href="https://docs.google.com/presentation/d/1gOtEuXTCLChtCmJZqL4Rpi08TlMlSRpf/edit?usp=sharing&ouid=118304770497693886763&rtpof=true&sd=true">Presentation</a>
     <br />
     <br />
-    <a href="https://github.com/osamhack2021/app_web_dronai_62bn/graphs/contributors">
-      <img src="https://img.shields.io/github/contributors/osamhack2021/app_web_dronai_62bn.svg?style=for-the-badge" />
+    <a href="https://github.com/LINEARJUN/SWTT-Unity-Netcode-Explanation/graphs/contributors">
+      <img src="https://img.shields.io/github/contributors/LINEARJUN/SWTT-Unity-Netcode-Explanation.svg?style=for-the-badge" />
     </a>
-    <a href="https://github.com/osamhack2021/app_web_dronai_62bn/network/members">
-      <img src="https://img.shields.io/github/forks/osamhack2021/app_web_dronai_62bn.svg?style=for-the-badge" />
+    <a href="https://github.com/LINEARJUN/SWTT-Unity-Netcode-Explanation/network/members">
+      <img src="https://img.shields.io/github/forks/LINEARJUN/SWTT-Unity-Netcode-Explanation.svg?style=for-the-badge" />
     </a>
-    <a href="https://github.com/osamhack2021/app_web_dronai_62bn/stargazers">
-      <img src="https://img.shields.io/github/stars/osamhack2021/app_web_dronai_62bn.svg?style=for-the-badge" />
+    <a href="https://github.com/LINEARJUN/SWTT-Unity-Netcode-Explanation/stargazers">
+      <img src="https://img.shields.io/github/stars/LINEARJUN/SWTT-Unity-Netcode-Explanation.svg?style=for-the-badge" />
     </a>
-    <a href="https://github.com/osamhack2021/app_web_dronai_62bn/issues">
-      <img src="https://img.shields.io/github/issues/osamhack2021/app_web_dronai_62bn.svg?style=for-the-badge" />
+    <a href="https://github.com/LINEARJUN/SWTT-Unity-Netcode-Explanation/issues">
+      <img src="https://img.shields.io/github/issues/LINEARJUN/SWTT-Unity-Netcode-Explanation.svg?style=for-the-badge" />
     </a>
-    <a href="https://github.com/osamhack2021/app_web_dronai_62bn/blob/master/license.md">
-      <img src="https://img.shields.io/github/license/osamhack2021/app_web_dronai_62bn.svg?style=for-the-badge" />
+    <a href="https://github.com/LINEARJUN/SWTT-Unity-Netcode-Explanation/blob/master/license.md">
+      <img src="https://img.shields.io/github/license/LINEARJUN/SWTT-Unity-Netcode-Explanation.svg?style=for-the-badge" />
     </a>
   </p>
 </div>
