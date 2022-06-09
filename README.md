@@ -12,11 +12,11 @@
     유니티 넷코드에 대한 간략한 소개
     <br />
     <br />
-    <a href="https://unity.com/">Unity3D</a>
+    <a href="https://unity.com/" target="_blank">Unity3D</a>
     ·
-    <a href="https://github.com/Unity-Technologies/com.unity.netcode.gameobjects">Netcode Repository</a>
+    <a href="https://github.com/Unity-Technologies/com.unity.netcode.gameobjects" target="_blank">Netcode Repository</a>
     ·
-    <a href="https://youtu.be/PCbJuSWBbrc">Video</a>
+    <a href="https://youtu.be/PCbJuSWBbrc" target="_blank">Video</a>
     ·
     <a href="https://github.com/LINEARJUN/SWTT-Unity-Netcode-Explanation/files/8869537/Presentation.pdf" target="_blank">Presentation</a>
     <br />
