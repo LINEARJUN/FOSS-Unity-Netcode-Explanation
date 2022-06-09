@@ -33,8 +33,8 @@
     <a href="https://github.com/LINEARJUN/SWTT-Unity-Netcode-Explanation/issues">
       <img src="https://img.shields.io/github/issues/LINEARJUN/SWTT-Unity-Netcode-Explanation.svg?style=for-the-badge" />
     </a>
-    <a href="https://github.com/LINEARJUN/SWTT-Unity-Netcode-Explanation/blob/master/license.md">
-      <img src="https://img.shields.io/github/license/LINEARJUN/SWTT-Unity-Netcode-Explanation.svg?style=for-the-badge" />
+    <a href="https://github.com/LINEARJUN/SWTT-Unity-Netcode-Explanation/blob/master/License.md">
+      <img src="http://img.shields.io/github/license/LINEARJUN/SWTT-Unity-Netcode-Explanation.svg?style=for-the-badge" />
     </a>
   </p>
 </div>
