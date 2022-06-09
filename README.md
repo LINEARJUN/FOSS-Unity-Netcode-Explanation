@@ -18,7 +18,7 @@
     ·
     <a href="https://youtu.be/PCbJuSWBbrc">Video</a>
     ·
-    <a href="https://github.com/LINEARJUN/SWTT-Unity-Netcode-Explanation/files/8869537/Presentation.pdf">Presentation</a>
+    <a href="https://github.com/LINEARJUN/SWTT-Unity-Netcode-Explanation/files/8869537/Presentation.pdf" target="_blank">Presentation</a>
     <br />
     <br />
     <a href="https://github.com/LINEARJUN/SWTT-Unity-Netcode-Explanation/graphs/contributors">
@@ -38,3 +38,8 @@
     </a>
   </p>
 </div>
+
+<h2>소개</h2>
+<li>작성자 : 201920765 - 김준영</li>
+<li>Unity Netcode에 대한 사진과 리소스는 <a href="https://unity.com">Unity</a>가 제작하였습니다.</li>
+<li>현재 유뷰트에 올린 영상은 SWTT에 영상이 게시될 시 삭제됩니다!</li>
