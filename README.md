@@ -18,7 +18,7 @@
     ·
     <a href="https://youtu.be/PCbJuSWBbrc" target="_blank">Video</a>
     ·
-    <a href="https://github.com/LINEARJUN/SWTT-Unity-Netcode-Explanation/files/8869537/Presentation.pdf" target="_blank">Presentation</a>
+    <a href="https://github.com/LINEARJUN/SWTT-Unity-Netcode-Explanation/blob/main/NETCODE%20%EC%86%8C%EA%B0%9C%20PPT.pptx?raw=true" target="_blank">Presentation</a>
     <br />
     <br />
     <a href="https://github.com/LINEARJUN/SWTT-Unity-Netcode-Explanation/graphs/contributors">
