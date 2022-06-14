@@ -167,7 +167,7 @@ public class TestNetworkScript : NetworkBehaviour
 <img src="https://user-images.githubusercontent.com/36218321/173541331-010362a7-0d93-4055-ab2c-205cacecf0f6.png"></img>
 
 <p>즉 요약하자면 명령이나 값 전달을 원하는 시점에 호출 했을 때 Latency의 시간 이후 바로 클라이언트가 그 정보를 받아 보길 원한다면 RPCs를 사용하는 것이 좋다</p>
-<p주기적으로 값을 동기화 해야 되고 늦게 접속한 플레이어도 값을 봐야 한다면 Network Variable을 사용하는 것이 더 적합하다</p>
+<p>주기적으로 값을 동기화 해야 되고 늦게 접속한 플레이어도 값을 봐야 한다면 Network Variable을 사용하는 것이 더 적합하다</p>
 
 
 <h2 id="references">:mag: 참조 (References)</h2>
