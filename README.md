@@ -74,6 +74,8 @@
 <li>일부 사진 자료 및 코드 자료는 Unity 측에서 제작함</li>
 <li>더 많은 정보를 보고 싶다면 <a href="https://docs-multiplayer.unity3d.com/netcode/current/about">유니티 넷코드 공식 DOCS</a> 참고!</li>
 
+<br/>
+
 <!--라인 효과-->
 <img src="https://user-images.githubusercontent.com/36218321/173535363-227603c9-3a2c-4d01-a2bc-d734ef1dba3d.gif"></a>
 
